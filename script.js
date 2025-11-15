@@ -3,5 +3,5 @@
 let status = document.querySelector("#status");
 
 document.querySelector("#enterBtn").onclick = function () {
-	status.innerHTML = "<h1>Enetered Metaverse</h1>"
+	status.innerHTML = "<h1>Entered Metaverse</h1>"
 }
